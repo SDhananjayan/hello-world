@@ -2,13 +2,15 @@
 Hello World!  
 *Hala Madrid*
 **y nada mas**  
-`#include<stdio.h>   
+```
+#include<stdio.h>   
  int main()     
  { 
      int x = 14;       
      printf("We have: %d UCLs", x);       
      return 0;      
- }`  
+ }
+```  
   
 >BLOCKQUOTE of the day
    
