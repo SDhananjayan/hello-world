@@ -9,7 +9,9 @@ int main()
   printf("We have: %d UCLs", x);  
   return 0;  
 }`  
->BLOCKQUOTE of the day   
+<br/>
+>BLOCKQUOTE of the day
+<br/>   
 1.Monday  
 2.Tuesday  
 3.Wednesday  
