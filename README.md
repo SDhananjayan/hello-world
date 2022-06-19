@@ -3,12 +3,12 @@ Hello World!
 *Hala Madrid*
 **y nada mas**  
 `#include<stdio.h>   
-int main()     
-{    
-  <br/> int x = 14;<br/>         
-  printf("We have: %d UCLs", x);<br/>        
-  return 0;<br/>      
-}`  
+ int main()     
+ { 
+     int x = 14;       
+     printf("We have: %d UCLs", x);       
+     return 0;      
+ }`  
   
 >BLOCKQUOTE of the day
    
